@@ -1,1 +1,1 @@
-# Home-Autmation-System
+# Home-Automation-System
